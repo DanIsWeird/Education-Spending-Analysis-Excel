@@ -1,34 +1,18 @@
 # Education-Spending-Analysis-Excel
-This project analyzes global education data from 1999–2023 to examine how government spending on education and pupil–teacher ratios relate to school enrollment rates at the primary, secondary, and tertiary levels. The analysis was conducted using Microsoft Excel as part of a Data Science coursework project, with a focus on exploratory data analysis and interpretation rather than predictive modeling.
+This project analyzes global education data from 1999 to 2023 to research the relationship between government spending on education, pupil teacher ratios, and school enrollment rates at the primary, secondary, and tertiary levels. The analysis was done using Excel as part of an introductory Data Science coursework project. This project was testing exploratory data analysis and interpretation instead of predictive modeling. The study focuses on understanding how financial investment and classroom data influence enrollment outcomes across different levels of education. 
 
-Research Questions:
-  How does government education spending (% of GDP) relate to school enrollment?
-  Do enrollment outcomes differ across primary, secondary, and tertiary education levels?
-  How do pupil–teacher ratios relate to enrollment rates?
-  Which countries show the highest enrollment rates and the most improvement over time?
+​
 
-Dataset:
-  The dataset includes international education indicators such as:
-  Government expenditure on education (% of GDP)
-  Literacy rates (ages 15+)
-  Primary, secondary, and tertiary enrollment rates
-  Pupil–teacher ratios
-  Completion rates
-  Data spans 1999–2023 and includes missing values and country-level variation that required cleaning and interpretation.
+The project researched several questions which includes, including how government education spending as a percentage of GDP relates to enrollment rates, and whether enrollment outcomes differ across primary, secondary, and tertiary education levels. How do pupil and teacher relationship ratios impact enrollment? Which countries show the highest enrollment levels and greatest improvement over time?
 
-Data Cleaning & Feature Construction
-  Key preprocessing steps included:
-    Dropping unnecessary or redundant variables
-    Handling missing values
-    Aggregating metrics across years and countries
-    Constructing new features such as:
-    Spending per student
-    Enrollment disparity between primary and secondary education
-    Year-over-year enrollment growth metrics
-    All preprocessing and analysis were performed directly in Excel using formulas, pivot tables, and charts.
+​
 
-Key Findings
-  Primary education shows a positive relationship between spending and enrollment, but with diminishing returns beyond ~6% of GDP.
-  Secondary and tertiary enrollment shows weaker or inconsistent relationships with spending, suggesting stronger influence from socio-economic and structural factors.
-  Pupil–teacher ratios have mixed effects depending on education level.
-  Several countries appear as outliers, reflecting unique policy choices or demographic conditions.
+The dataset used had indicators such as government expenditure on education (%GDP), adult literacy rates (ages 15+), primary, secondary, and tertiary enrollment rates, pupil and teacher ratios, and completion rates. The data spans the years 1999–2023 and includes missing values and country-level variation, requiring cleaning and interpretation before analysis.
+
+​
+
+There had to be a lot of data cleaning for this to work, and feature construction had to be done all in excel. This includes dropping unnecessary data and redundant variables, handling missing values, and aggregating metrics across years and countries. Additional features were made to give deeper insight, such as spending per student, enrollment disparity between primary and secondary education, and year-over-year enrollment growth metrics. All preprocessing and analysis were completed using Excel formulas, pivot tables, and charts.
+
+​
+
+The results show that primary education exhibits a positive relationship between spending and enrollment, but with diminishing returns beyond approximately 6% of GDP. In contrast, secondary and tertiary enrollment show weaker or less consistent relationships with spending, suggesting that socioeconomic and structural factors play a larger role at higher education levels. Pupil and teacher ratios show mixed effects depending on education level, and several countries appear as outliers, reflecting unique policy decisions or demographic conditions. 
