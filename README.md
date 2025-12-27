@@ -1,4 +1,6 @@
 # Education-Spending-Analysis-Excel
+Final Presentation Slides Including Organized Graphs: https://drive.google.com/file/d/14HDP_ny3VkYjzbTapgafnT-kradIFlrZ/view?usp=sharing 
+
 This project analyzes global education data from 1999 to 2023 to research the relationship between government spending on education, pupil teacher ratios, and school enrollment rates at the primary, secondary, and tertiary levels. The analysis was done using Excel as part of an introductory Data Science coursework project. This project was testing exploratory data analysis and interpretation instead of predictive modeling. The study focuses on understanding how financial investment and classroom data influence enrollment outcomes across different levels of education. 
 
 ​
